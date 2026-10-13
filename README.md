@@ -22,8 +22,8 @@ This project is a front-end clone of the IBACO ice cream website, created using 
 ```text
 IBACO-Ice-Cream-Clone/
 │
-├── index.html
-├── style.css
+├── main.html
+├── main.css
 ├── assets/
 │   ├── img/
 │   └── videos/
@@ -33,10 +33,10 @@ IBACO-Ice-Cream-Clone/
 ## 🚀 How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   https://github.com/Pava1612/Ibacoclone.git
    ```
 2. Open the project folder.
-3. Open `index.html` in your browser.
+3. Open `main.html` in your browser.
 
 ## 🎯 Project Objective
 The objective of this project is to improve front-end development skills by creating an attractive ice cream website using HTML and CSS.
