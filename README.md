@@ -1,3 +1,4 @@
+
 # 🍦 IBACO Ice Cream Website Clone
 
 ## 📌 About the Project
@@ -17,18 +18,6 @@ This project is a front-end clone of the IBACO ice cream website, created using 
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3
-
-## 📂 Project Structure
-```text
-IBACO-Ice-Cream-Clone/
-│
-├── main.html
-├── main.css
-├── assets/
-│   ├── img/
-│   └── videos/
-└── README.md
-```
 
 ## 🚀 How to Run the Project
 1. Clone this repository:
